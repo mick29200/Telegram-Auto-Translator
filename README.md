@@ -12,4 +12,3 @@ Fonctionne avec une interface de sélection de la langue cible.
 
 ## Installation
 1. Installe une extension UserScript (comme **Tampermonkey**)
-2. Installe ce script via ce lien : 
